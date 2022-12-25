@@ -31,7 +31,7 @@
 
 
 ## Line Bot QR code
-![QR code](QRcode.png)
+![QR code](img/qrcode.png)
 ## 示範截圖
 
 ### 親戚稱謂查詢 & 紅包收發
