@@ -64,15 +64,18 @@
 <!-- ![](demo_img/IMG_3447.PNG) -->
 
 ### 賀年貼圖
-<img src="demo_img/IMG_3448.PNG" width="50%" height="50%">
-<!-- ![](demo_img/IMG_3448.PNG) -->
+<img src="img/pic1.jpg" width="50%" height="50%">
+<!-- ![](img/pic1.jpg) -->
 
-<img src="demo_img/IMG_3449.PNG" width="50%" height="50%">
-<!-- ![](demo_img/IMG_3449.PNG) -->
+<img src="img/pic2.jpg" width="50%" height="50%">
+<!-- ![](img/pic2.jpg) -->
+
+<img src="img/pic3.jpg" width="50%" height="50%">
+<!-- ![](img/pic3.jpg) -->
 
 ### Document
-<img src="demo_img/IMG_3450.PNG" width="50%" height="50%">
-<!-- ![](demo_img/IMG_34410.PNG) -->
+<img src="img/document.jpg" width="50%" height="50%">
+<!-- ![](img/document.jpg) -->
 
 ## Reference
 [Line Bot Python SDK](https://github.com/line/line-bot-sdk-python)
