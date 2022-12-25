@@ -19,12 +19,11 @@
     - 可以讓長輩覺得你很孝順，增進家人間的感情。
 
 ## 實作細項
-1. 部署到 Heroku
+1. 運用不同種的 Line 回應格式（image, template, text...）
 2. 多使用者獨立的 FSM
 3. 獨立存取每個使用者的資料，以 json 檔案實作
 4. 網路圖片抓取
-5. 運用不同種的 Line 回應格式（image, template, text...）
-6. ...
+5. ...
 
 ## FSM graph
 ![FSM graph](fsm.png)
