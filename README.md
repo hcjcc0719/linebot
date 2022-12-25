@@ -1,4 +1,4 @@
-# Linebot
+# Line Bot
 > A Line bot based on a finite state machine
 
 ## 構想
