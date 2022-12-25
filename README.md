@@ -36,32 +36,13 @@
 
 ### 親戚稱謂查詢 & 紅包收發
 
-<img src="demo_img/IMG_3440.PNG" width="50%" height="50%">
-<!-- ![](demo_img/IMG_3440.PNG) -->
+<img src="img/relative1.jpg" width="30%" height="30%">  <img src="img/relative2.jpg" width="30%" height="30%">
 
-<img src="demo_img/IMG_3441.PNG" width="50%" height="50%">
-<!-- ![](demo_img/IMG_3441.PNG) -->
-
-<img src="demo_img/IMG_3442.PNG" width="50%" height="50%">
-<!-- ![](demo_img/IMG_3442.PNG) -->
-
-<img src="demo_img/IMG_3443.PNG" width="50%" height="50%">
-<!-- ![](demo_img/IMG_3443.PNG) -->
-
-<img src="demo_img/IMG_3444.PNG" width="50%" height="50%">
-<!-- ![](demo_img/IMG_3444.PNG) -->
-
-
-<!-- ![](demo_img/IMG_3445.PNG) -->
+<img src="img/relative3.jpg" width="30%" height="30%">  <img src="img/relative4.jpg" width="30%" height="30%">
 
 ### 紅包管理
 
-<img src="demo_img/IMG_3446.PNG" width="50%" height="50%">
-<!-- ![](demo_img/IMG_3446.PNG) -->
-
-
-<img src="demo_img/IMG_3447.PNG" width="50%" height="50%">
-<!-- ![](demo_img/IMG_3447.PNG) -->
+<img src="img/money1.jpg" width="30%" height="30%">  <img src="img/money2.jpg" width="30%" height="30%">
 
 ### 賀年貼圖
 <img src="img/pic1.jpg" width="30%" height="30%">  <img src="img/pic2.jpg" width="30%" height="30%">  <img src="img/pic3.jpg" width="30%" height="30%">
